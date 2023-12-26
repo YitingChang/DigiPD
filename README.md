@@ -4,7 +4,9 @@ Parkinson’s disease (PD) is a progressive neurodegenerative disorder affecting
 <img src="figures/proposal.jpeg" width="800">
  
 ## Data 
-The dataset is from the Levodopa Response Study supported by Michael J, Fox Foundation. In this dataset, 28 PD patients were included. These patients wore a smartwatch (accelerometer) on the wrist of the most affected limb and performed a series of tasks realted to activity of daily living such as standing, sitting, walking, opening a bottle and pouring water, drawing and writing on a paper, and typing on a computer keyboard. During each task, a trained clinician rated three PD symptoms: tremor (0-4 ranges), dyskinesia (involuntary, erratic, writhing movements, presence/absence), and bradykinesia (slowness of movement, presence/absence). Additionally, demographics and clinical data was collected.
+The dataset is from the Levodopa Response Study supported by Michael J, Fox Foundation. In this dataset, 28 PD patients were included. These patients wore a smartwatch (accelerometer) on the wrist of the most affected limb and performed a series of tasks realted to activity of daily living such as standing, sitting, walking, opening a bottle and pouring water, drawing and writing on a paper, and typing on a computer keyboard. During each task, a trained clinician rated three PD symptoms: tremor (0-4 ranges), dyskinesia (involuntary, erratic, writhing movements, presence/absence), and bradykinesia (slowness of movement, presence/absence). Additionally, demographics and clinical data was collected.\
+
+Please follow the instructions to access the dataset through [Synapse](https://www.synapse.org/#!Synapse:syn20681023/wiki/).
 
 ## Model training and evaluation
 
